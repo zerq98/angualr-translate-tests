@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "title": "Translation demo - from en json",
+    "text": "This is a simple demonstration app for ngx-translate - from en json",
+    "greeting": "Hello {{name}}!"
+  },
+  "szerokość boku": "width"
+}
